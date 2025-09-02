@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Your changes
-=======
 Incoming changes
->>>>>>> origin/Serdena# Serdena_Sabijon
 
 Hans
 
